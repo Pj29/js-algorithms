@@ -19,4 +19,7 @@ function power(base, exponent) {
   return result;
 }
 
+let result = power(4, 2);
+console.log(result);
+
 module.exports = power;
